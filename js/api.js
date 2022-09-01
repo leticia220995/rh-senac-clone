@@ -68,8 +68,12 @@ function getUrlBase(port) {
     // return "https://cors-anywhere.herokuapp.com/https://apisenac2022.herokuapp.com/api.php/" + port;
 
     // API JAVA - SPRING WEB API
-    return "https://cors-anywhere.herokuapp.com/https://web-api-java22.herokuapp.com/" + port;
+    // return "https://cors-anywhere.herokuapp.com/https://web-api-java22.herokuapp.com/" + port;
+    
+    // https://web-api-java22.herokuapp.com/
 
+    return "https://cors-anywhere.herokuapp.com/https://web-api-java22.herokuapp.com/" + port;
+    
     // folha
     // https://spring-web-api-dio.herokuapp.com/folha
 }
